@@ -1,0 +1,26 @@
+{
+  "name": "tests-js-example",
+  "version": "1.0.0",
+  "description": "This is a simple js project to demostrate how powerful unit testing is.",
+  "main": "numbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wOvalle/tests-js-example"
+  },
+  "author": "Willy Ovalle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wOvalle/tests-js-example/issues"
+  },
+  "homepage": "https://github.com/wOvalle/tests-js-example",
+  "dependencies": {},
+  "devDependencies": {
+    "should": "^8.1.1"
+  }
+}
