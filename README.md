@@ -1,2 +1,4 @@
-# tests-csharp-example
-This is a simple c# project to demostrate how powerful unit testing is.
+# tests-examples
+This project is intended to demostrate the power inside unit testing.
+
+It is divided in two projects: C# && tests.
